@@ -9,7 +9,7 @@
   * Có bảng cho biết khối nào đang được lưu trữ để dùng sau này.
   * Có ô dự đoán vị trí rơi của khối cho việc tính toán dễ dàng hơn.
 
-![image](https://raw.githubusercontent.com/combi2k2/Bai Tap Lon/demo.png)
+![image](demo.png)
 
 2. Tutorial
   * Mũi tên trái:   Di chuyển khối hiện tại 1 đơn vị về bên trái (nếu có thể)
