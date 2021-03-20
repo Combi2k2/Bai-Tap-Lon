@@ -9,7 +9,7 @@
   * Có bảng cho biết khối nào đang được lưu trữ để dùng sau này.
   * Có ô dự đoán vị trí rơi của khối cho việc tính toán dễ dàng hơn.
 
-![Image](C:\Users\hp.DESKTOP-M8H6R1F\Desktop\BaiTapLon\demo.png)
+![Image](demo.png)
 
 2. Tutorial
   * Mũi tên trái:   Di chuyển khối hiện tại 1 đơn vị về bên trái (nếu có thể)
