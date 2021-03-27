@@ -20,6 +20,7 @@
   * Phím s:         Xoay khối hiện tại theo  chiều kim đồng hồ (Nếu có thể)
   * Phím SPACE:     Thả khối hiện tại xuống vị trí được dự đoán và khối tiếp theo sẽ được đưa vào.
   * Phím c:         Giữ khối hiện tại vào kho lưu trữ (nếu khối này không phải được lấy ra từ kho lưu trữ) và khối trong kho lưu trữ sẽ được lấy ra hoặc khối được dự đoán nếu trong kho không có khối nào.
+  * Phím p:         Tạm dừng trò chơi, có thể lựa chọn chơi tiếp hoặc dừng trò chơi.
 
 3. Cơ chế tính điểm:
  * Dùng phím mũi tên xuống hoặc phím cách, số điểm sẽ được cộng 1 lượng tương ứng bằng số hàng mà khối hiện tại đi xuống
