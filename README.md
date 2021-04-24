@@ -24,4 +24,5 @@
 
 3. Cơ chế tính điểm:
  * Dùng phím mũi tên xuống hoặc phím cách, số điểm sẽ được cộng 1 lượng tương ứng bằng số hàng mà khối hiện tại đi xuống
- * Khi cả A một hàng bị triệt tiêu thì được thêm 10(A - 1) điểm.
+ * Khi cả một hàng bị triệt tiêu thì được thêm 10 điểm.
+ * Khi A hàng bị triệt tiêu thì sẽ được thêm điểm COMBO 10 * (A - 1) điểm
